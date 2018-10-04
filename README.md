@@ -11,3 +11,5 @@ New Features:	1.1 - Visualization of Dir-Structure
 				      1.4 - Extents
 """
 version="1.4 from 24.10.2017"
+
+Link to my master thesis: https://brage.bibsys.no/xmlui/handle/11250/2502565
