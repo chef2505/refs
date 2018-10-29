@@ -13,3 +13,5 @@ New Features:	1.1 - Visualization of Dir-Structure
 version="1.4 from 24.10.2017"
 
 Link to my master thesis: https://brage.bibsys.no/xmlui/handle/11250/2502565
+
+This tool is part of my master thesis at NTNU (2018). This master thesis does not contain all my results, therefor feel free to contact me.
